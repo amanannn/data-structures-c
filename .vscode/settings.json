@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.intelliSenseEngine": "default",
+    
+    "terminal.integrated.defaultProfile.linux": "bash",
+    
+    "search.exclude": {
+        "**/build": true,
+        "**/*.o": true
+    }
+}

@@ -12,9 +12,6 @@
 #include "include/graph.h"
 #include "include/sort.h"
 
-/* 全局变量（图遍历需要） */
-bool visited[MAX_VERTICES];
-
 /* ================= 测试函数声明 ================= */
 void test_seq_list();
 void test_linked_list();
